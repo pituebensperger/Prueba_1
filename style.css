@@ -1,0 +1,45 @@
+body{font-family: 'Lato', sans-serif; 
+    font-weight: 300;
+    font-size: 13px;
+    letter-spacing: 1px;
+        color: #474747;
+}
+
+p {
+    margin-top: 20px;
+}
+
+h1{
+    font-family: 'Playfair Display', serif; 
+    font-weight: 800; 
+    text-transform: uppercase;
+    letter-spacing: 10px; 
+    font-size: 120px;
+    color: #353535;
+}
+h2{
+    font-family: 'Playfair Display', serif; 
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 30px;
+    color: #474747;
+}
+h3
+{
+    font-family: 'Playfair Display', serif; 
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    color: #474747;
+    margin-top: 30px;
+}
+
+h4,h5,h6 {font-family: 'Playfair Display', serif; font-weight: 700; text-transform: uppercase;letter-spacing: 1px;font-size: 20px}
+span#lugar{font-weight: 700;}
+
+div#mapid {
+    width: 400px;
+    height: 100%;
+    margin-top: 20px;
+    margin-left: 25%;
+}
